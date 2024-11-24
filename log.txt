@@ -1,46 +1,18 @@
 On branch master
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	new file:   log.txt
-	new file:   practical1/README.md
-	new file:   practical1/output/printing.exe
-	new file:   practical1/output/scanning.exe
-	new file:   practical1/printing.c
-	new file:   practical1/scanning.c
-	new file:   practical2/Conversion.c
-	new file:   practical2/README.md
-	new file:   practical2/Sum.c
-	new file:   practical2/output/Conversion.exe
-	new file:   practical2/output/Sum.exe
-	new file:   practical3/README.md
-	new file:   practical3/output/pi.exe
-	new file:   practical3/output/trap.exe
-	new file:   practical3/pi.c
-	new file:   practical3/trap.c
-	new file:   practical4/README.md
-	new file:   practical4/output/trap.exe
-	new file:   practical4/trap.c
-	new file:   practical5/Arctanh.c
-	new file:   practical5/Fibonacci.c
-	new file:   practical5/README.md
-	new file:   practical5/Scanf.c
-	new file:   practical6/.DS_Store
-	new file:   practical6/Makeme file/main.c
-	new file:   practical6/Makeme file/makefile
-	new file:   practical6/Makeme file/mm.c
-	new file:   practical6/Makeme file/mmc
-	new file:   practical6/README.md
-	new file:   practical7/ReadME.md
-	new file:   practical7/factorial.c
-	new file:   practical7/pointers.c
-	new file:   practical8/ReadME.md
-	new file:   practical8/gcd.c
+Your branch is up to date with 'origin/master'.
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
 	modified:   log.txt
 	modified:   sciprog_24 (new commits)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+commit aeb9bab8c547e925403c97bd3ec93038ac00079b
+Author: Emma24 <emmathomasjj2001@gmail.comgit config --global user.email emmathomasjj2001@gmail.comgit config --global user.email emmathomasjj2001@gmail.com>
+Date:   Sun Nov 24 22:09:30 2024 +0530
+
+    Add git status and log output
 
 commit 3068f2f46ca4541cf289aaa54cd89ccbddde3945
 Author: sneha24 <snehamuthukumaar5005@gmail.comgit config --global user.email snehamuthukumaar5005@gmail.comgit config --global user.email snehamuthukumaar5005@gmail.com>
