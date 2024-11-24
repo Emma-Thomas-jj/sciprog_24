@@ -1,3 +1,9 @@
+commit c1c277df0bc187f72c55ef952458c7046c3111e9
+Author: Emma24 <emmathomasjj2001@gmail.comgit config --global user.email emmathomasjj2001@gmail.comgit config --global user.email emmathomasjj2001@gmail.com>
+Date:   Sun Nov 24 22:22:42 2024 +0530
+
+    Add git log output to output.txt
+
 commit 80f338a40237ce53e85e8e22b548135c65eabc48
 Author: Emma24 <emmathomasjj2001@gmail.comgit config --global user.email emmathomasjj2001@gmail.comgit config --global user.email emmathomasjj2001@gmail.com>
 Date:   Sun Nov 24 22:16:16 2024 +0530
@@ -11,7 +17,7 @@ Date:   Sun Nov 24 22:09:30 2024 +0530
     Add git status and log output
 
 commit 3068f2f46ca4541cf289aaa54cd89ccbddde3945
-Author: sneha24 <snehamuthukumaar5005@gmail.comgit config --global user.email snehamuthukumaar5005@gmail.comgit config --global user.email snehamuthukumaar5005@gmail.com>
+Author: Emma24 <emmathomasjj2001@gmail.comgit config --global user.email emmathomasjj2001@gmail.comgit config --global user.email emmathomasjj2001@gmail.com>
 Date:   Sun Nov 24 20:28:16 2024 +0530
 
     First commit
